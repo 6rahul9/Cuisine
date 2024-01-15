@@ -1,6 +1,35 @@
-# Getting Started with Create React App
+# Getting Started with CUISINE
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+I've crafted a visually enticing and responsive restaurant website, "Cuisine," where React and React-Icons take center stage, artfully woven together with a blend of meticulous CSS techniques.
+
+Here's a taste of the ingredients that went into this digital culinary masterpiece:
+
+React Functional Components: A foundation of reusable components, ensuring a well-structured and maintainable codebase.
+React File and Folder Organization: A meticulously arranged project structure, promoting clarity and efficiency in development.
+
+CSS Mastery: A harmonious blend of flexbox and grid, expertly positioning elements for a seamless visual layout.
+
+BEM Model Adherence: Adherence to BEM principles, ensuring clean and scalable CSS classes.
+
+Visual Delights: A feast for the eyes, featuring captivating animations, intricate gradients, and a responsive design that adapts gracefully to diverse devices.
+
+Welcome to Cuisine, a digital dining experience where every pixel is a carefully curated flavor, designed to tantalize the senses and leave a lasting impression.
+
+
+### [Click to view Live Demo](https://cuisine-seven.vercel.app)
+
+## Screenshots and demo
+
+![cuisine 1](https://github.com/6rahul9/cuisine./assets/97466426/d0193a0e-a2d5-4570-b626-a3a80d9ed202)
+![cuisine 2](https://github.com/6rahul9/cuisine./assets/97466426/0ca1fa02-ce9b-4bec-abab-7549ca8d870d)
+![cuisine 3](https://github.com/6rahul9/cuisine./assets/97466426/9e944b8c-d8e8-48d3-91e3-50c05461c259)
+![cuisine 4](https://github.com/6rahul9/cuisine./assets/97466426/8975d79a-6f5a-4074-87e2-9cd3f3dcf68d)
+![cuisine 5](https://github.com/6rahul9/cuisine./assets/97466426/c640ce62-61eb-4f24-96ff-f9ba84816c7f)
+![cuisine 6](https://github.com/6rahul9/cuisine./assets/97466426/67a70bb9-2595-436c-a2e3-f65678f5fbff)
+![cuisine 7](https://github.com/6rahul9/cuisine./assets/97466426/4163ec06-a0e3-473b-aefe-27626f43f0a6)
+![cuisine 8](https://github.com/6rahul9/cuisine./assets/97466426/811bb4ca-ca62-4db6-b4e1-5beeaa32c406)
+![cuisine 9](https://github.com/6rahul9/cuisine./assets/97466426/0a5db427-8578-452a-a37b-901185c173a1)
+
 
 ## Available Scripts
 
@@ -8,63 +37,16 @@ In the project directory, you can run:
 
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
